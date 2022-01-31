@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "name": "Mt. Everest",
+    "description": "Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas.",
+    "price": 1276,
+    "stars": 5,
+    "people": 5,
+    "selected_people": 5,
+    "img": "https://cdn.britannica.com/w:690,h:388,c:crop/17/83817-050-67C814CD/Mount-Everest.jpg",
+    "location": "Solukhumbu, Nepal",
+    "created_at": "2022-01-17T10:09:08.000000Z",
+    "updated_at": "2022-01-19T13:39:55.000000Z"
+}, {
+    "id": 2,
+    "name": "Pashupatinath",
+    "description": "Pashupatinath Temple is a Hindu temple dedicated to Pashupati, and is located in Kathmandu, Nepal. This temple was classified as a World Heritage Site in 1979.",
+    "price": 210,
+    "stars": 3,
+    "people": 5,
+    "selected_people": 3,
+    "img": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/16/full/1592304513-3729.jpg",
+    "location": "Kathmandu, Nepal",
+    "created_at": "2022-01-17T10:10:43.000000Z",
+    "updated_at": "2022-01-19T14:18:09.000000Z"
+}, {
+    "id": 3,
+    "name": "Rara Lake",
+    "description": "Rara Lake is the biggest fresh water lake in the Nepalese Himalayas. n September 2007, it was declared a Ramsar site, covering 1,583 ha including the surrounding wetland.",
+    "price": 545,
+    "stars": 4,
+    "people": 5,
+    "selected_people": 4,
+    "img": "https://cdn.tourradar.com/s3/tour/1500x800/171788_b6dfda5e.jpg",
+    "location": "Mugu, Nepal",
+    "created_at": "2022-01-17T10:16:31.000000Z",
+    "updated_at": "2022-01-19T13:40:36.000000Z"
+}, {
+    "id": 4,
+    "name": "Tea Garden",
+    "description": "The tea garden of Nepal, is located about 700 km east of Kathmandu. It is famous for natural scenery and landscapes, tea production, and diverse agricultural economy.",
+    "price": 300,
+    "stars": 4,
+    "people": 5,
+    "selected_people": 3,
+    "img": "https://subhayatra.com/wp-content/uploads/2017/12/Ilam1.jpg",
+    "location": "Kanyam, Ilam",
+    "created_at": "2022-01-17T10:18:46.000000Z",
+    "updated_at": "2022-01-19T13:40:44.000000Z"
+}, {
+    "id": 5,
+    "name": "Phewa Lake",
+    "description": "Phewa Tal or Fewa Lake is a freshwater lake in Nepal formerly called Baidam Tal located in the south of the Pokhara Valley.",
+    "price": 850,
+    "stars": 5,
+    "people": 5,
+    "selected_people": 4,
+    "img": "https://thumbs.dreamstime.com/b/boating-fewa-tal-lake-nepal-people-towards-island-temple-162931310.jpg",
+    "location": "Pokhara, Nepal",
+    "created_at": "2022-01-08T12:29:53.000000Z",
+    "updated_at": "2022-01-08T12:29:53.000000Z"
+}]
